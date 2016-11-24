@@ -1,3 +1,5 @@
+class: center, middle
+
 # Agenda
 
 1. How git works
