@@ -9,8 +9,8 @@ class: center, middle
 As you can see there are four main components.
 
 So as all of us are professionals in git, let's jump to advanced subjects.
-First of all, I'd like to discuss 2 most popular git flows on a project.
-Merge vs Rebase. I'd actually was under discussion from the beginning.
+But if you in some reason still don't feel you comfortable.
+Let's start from something not so hard: aliases
 NEXT
 
 ---

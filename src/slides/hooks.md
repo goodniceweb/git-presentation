@@ -5,7 +5,7 @@ class: center, middle
 ```
 # Installation
 #   ln -s /path/to/pre-commit.sh /path/to/project/.git/hooks/pre-commit
-FILES_PATTERN='\.(rb|haml|coffee)(\..+)?$'
+FILES_PATTERN='\.(rb|haml)(\..+)?$'
 FORBIDDEN='binding.pry\|byebug'
  
 git diff --cached --name-only | \

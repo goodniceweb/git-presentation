@@ -6,7 +6,11 @@ class: center, middle
 
 ???
 
-How many revistions? Not really a lot: only 1333
+Let's be honest: shit happens. How to resolve?
+Git reflog comes to resque!
+
+How much time do I have? By default you have 30 days.
+GC in git is interesting itself. NEXT
 
 ---
 

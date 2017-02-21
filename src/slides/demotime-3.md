@@ -4,4 +4,8 @@ class: center, middle
 
 <img src="img/demotime-3.jpg" class="content-image">
 
+???
+
+Should be available to automize it
+
 ---
